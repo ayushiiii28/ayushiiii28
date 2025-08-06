@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things but coding, food and music mainly.
 - 🌱 I’m currently learning Python Advanced, and other libraries.
 - 💞️ I’m looking to collaborate on projects and hackathons.
-- 📫 How to reach me instgram, Linkdein, Email
+- 📫 How to reach me instgram, Linkdien, Email
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to write ♥️
 
