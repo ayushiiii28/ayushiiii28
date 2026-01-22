@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayushi.
 - 👀 I’m interested in many things but coding, food and music mainly.
-- 🌱 I’m currently learning Python Advanced, and other libraries.
+- 🌱 I’m currently learning GenAI & Agentic AI.
 - 💞️ I’m looking to collaborate on projects and hackathons.
 - 📫 How to reach me instgram, Linkdien, Email
 - 😄 Pronouns: She/Her
